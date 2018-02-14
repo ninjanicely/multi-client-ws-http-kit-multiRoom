@@ -1,0 +1,216 @@
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.48 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.501 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.4 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.493 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.528 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.522 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.534 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.731 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.71 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.635 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.86 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.923 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.976 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 1.108 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 1.278 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.744 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.814 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 1.144 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.775 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 1.297 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.722 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 1.131 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 1.325 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 1.587 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 1.015 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.675 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src-cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.949 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  /multi_client_ws/websockets.js
+notifying browser that file changed:  /multi_client_ws/app.js
+notifying browser that file changed:  /multi_client_ws/core.js

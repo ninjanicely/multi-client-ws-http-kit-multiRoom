@@ -1,0 +1,381 @@
+2018-Jan-09 10:18:45 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 10:18:45 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 10:21:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 10:21:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 10:21:22 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 10:21:22 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 10:22:08 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 22:33:34 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 22:33:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 22:59:07 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 22:59:07 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 22:59:07 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Jan-09 22:59:29 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 22:59:29 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:00:03 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:02:31 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:02:31 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:02:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:02:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:02:54 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:03:10 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:03:54 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :client-close
+2018-Jan-09 23:06:24 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:10:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:10:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:10:53 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:10:53 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:20:20 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:20:20 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:20:55 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:20:56 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:21:03 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:21:55 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:21:56 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:22:03 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:22:03 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:22:03 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Jan-09 23:22:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:22:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:22:32 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:22:46 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:22:46 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:22:46 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Jan-09 23:24:17 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:24:17 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:24:24 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:24:46 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:24:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:25:19 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:25:19 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:27:07 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:27:08 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:27:14 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:27:14 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:27:14 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Jan-09 23:27:41 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:27:41 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:27:50 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:27:51 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:29:22 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:33:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:33:50 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:43:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:43:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:43:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Jan-09 23:44:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:44:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:44:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:44:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - request: {:cookies {ring-session {:value 17d823de-e9a3-4b58-a58c-4a8fe4372d0b}}, :remote-addr 0:0:0:0:0:0:0:1, :params {}, :flash nil, :route-params {}, :headers {origin http://localhost:3000, host localhost:3000, upgrade websocket, user-agent Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0, cookie ring-session=17d823de-e9a3-4b58-a58c-4a8fe4372d0b, connection keep-alive, Upgrade, pragma no-cache, sec-websocket-key uFnxlejzDrgbYNLu7VOLUQ==, accept text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8, accept-language en-US,en;q=0.5, sec-websocket-version 13, accept-encoding gzip, deflate, sec-websocket-extensions permessage-deflate, cache-control no-cache}, :async-channel #object[org.httpkit.server.AsyncChannel 0x6aeedb2e /0:0:0:0:0:0:0:1:3000<->/0:0:0:0:0:0:0:1:51872], :server-port 3000, :content-length 0, :form-params {}, :websocket? true, :session/key 17d823de-e9a3-4b58-a58c-4a8fe4372d0b, :query-params {}, :content-type nil, :character-encoding utf8, :uri /ws, :server-name localhost, :query-string nil, :body nil, :multipart-params {}, :scheme :http, :request-method :get, :session {:ring.middleware.anti-forgery/anti-forgery-token oyev2ts12l6hxUUEJWQr3jyW5i+hmZTcJ8h9MEq1VuflHYnrRjyDCyP722nfq69OlqZVKAJ1Fs62r/Fj, :ring.middleware.session-timeout/idle-timeout 1515543255}}
+2018-Jan-09 23:44:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:45:00 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:45:00 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - request: {:cookies {ring-session {:value 17d823de-e9a3-4b58-a58c-4a8fe4372d0b}}, :remote-addr 0:0:0:0:0:0:0:1, :params {}, :flash nil, :route-params {}, :headers {origin http://localhost:3000, host localhost:3000, upgrade websocket, user-agent Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0, cookie ring-session=17d823de-e9a3-4b58-a58c-4a8fe4372d0b, connection keep-alive, Upgrade, pragma no-cache, sec-websocket-key tMjXV/nUPkXPYhDZTs5iuQ==, accept text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8, accept-language en-US,en;q=0.5, sec-websocket-version 13, accept-encoding gzip, deflate, sec-websocket-extensions permessage-deflate, cache-control no-cache}, :async-channel #object[org.httpkit.server.AsyncChannel 0x7691620f /0:0:0:0:0:0:0:1:3000<->/0:0:0:0:0:0:0:1:51886], :server-port 3000, :content-length 0, :form-params {}, :websocket? true, :session/key 17d823de-e9a3-4b58-a58c-4a8fe4372d0b, :query-params {}, :content-type nil, :character-encoding utf8, :uri /ws, :server-name localhost, :query-string nil, :body nil, :multipart-params {}, :scheme :http, :request-method :get, :session {:ring.middleware.anti-forgery/anti-forgery-token oyev2ts12l6hxUUEJWQr3jyW5i+hmZTcJ8h9MEq1VuflHYnrRjyDCyP722nfq69OlqZVKAJ1Fs62r/Fj, :ring.middleware.session-timeout/idle-timeout 1515543295}}
+2018-Jan-09 23:45:00 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:45:11 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:45:11 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:45:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:45:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:45:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:45:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - request: {:cookies {ring-session {:value adb6418b-182a-451d-8aea-079359bb3be3}}, :remote-addr 0:0:0:0:0:0:0:1, :params {}, :flash nil, :route-params {}, :headers {origin http://localhost:3000, host localhost:3000, upgrade websocket, user-agent Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0, cookie ring-session=adb6418b-182a-451d-8aea-079359bb3be3, connection keep-alive, Upgrade, pragma no-cache, sec-websocket-key Hwuozbi0Fcy36G6JYwXn8g==, accept text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8, accept-language en-US,en;q=0.5, sec-websocket-version 13, accept-encoding gzip, deflate, sec-websocket-extensions permessage-deflate, cache-control no-cache}, :async-channel #object[org.httpkit.server.AsyncChannel 0x15f56c09 /0:0:0:0:0:0:0:1:3000<->/0:0:0:0:0:0:0:1:51907], :server-port 3000, :content-length 0, :form-params {}, :websocket? true, :session/key adb6418b-182a-451d-8aea-079359bb3be3, :query-params {}, :content-type nil, :character-encoding utf8, :uri /ws, :server-name localhost, :query-string nil, :body nil, :multipart-params {}, :scheme :http, :request-method :get, :session {:ring.middleware.session-timeout/idle-timeout 1515543343, :ring.middleware.anti-forgery/anti-forgery-token aTa+j3yroE5QP6QK1Vs3kBrmtEgoPS8gp+G21NyPjMl6S9AV4S4nnVNCETv3VvUM62TJzUB61OViXEXe}}
+2018-Jan-09 23:45:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:47:16 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:47:16 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:47:45 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:47:45 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:48:06 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:48:26 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:48:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:48:32 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-09 23:48:36 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-09 23:48:37 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Jan-09 23:49:40 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Jan-09 23:49:40 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Jan-09 23:50:06 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:50:15 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-09 23:50:24 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Jan-15 13:42:04 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-15 13:42:04 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-15 13:42:04 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Jan-15 13:42:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Jan-15 13:42:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-11 23:31:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-11 23:31:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-11 23:31:15 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-11 23:56:01 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Feb-11 23:56:02 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-11 23:56:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Feb-11 23:56:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-11 23:56:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-11 23:56:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-11 23:56:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Feb-11 23:58:10 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-11 23:58:10 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-11 23:58:15 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 00:04:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Feb-12 00:04:50 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 00:05:00 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 00:05:00 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 00:05:00 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Feb-12 00:06:39 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 00:06:39 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 00:06:44 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 00:06:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Feb-12 00:06:52 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 00:06:55 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Feb-12 00:07:59 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 00:08:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 00:08:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 00:08:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Feb-12 00:12:29 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 00:12:29 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 00:12:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 00:12:41 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Feb-12 00:12:44 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 00:13:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 00:13:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 00:13:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Feb-12 00:14:26 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 00:14:26 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 00:15:28 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 00:16:28 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :going-away
+2018-Feb-12 00:16:29 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 22:32:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 22:32:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 22:32:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Feb-12 22:32:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 22:32:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 22:36:41 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 22:36:41 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 22:41:24 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 22:41:24 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 22:42:34 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 22:42:34 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 22:43:24 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 22:43:25 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 22:45:51 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 22:45:51 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 22:46:40 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 22:46:40 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 22:51:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 22:51:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 22:52:08 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 22:52:09 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:02:13 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:02:13 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:05:20 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 23:05:20 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:06:27 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:06:27 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:08:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 23:08:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:10:24 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:10:24 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:10:58 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 23:10:59 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:12:48 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:12:48 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:13:19 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 23:13:19 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:14:11 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:14:11 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:16:06 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 23:16:06 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:16:13 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 23:20:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:20:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:21:40 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 23:21:40 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:21:56 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open
+2018-Feb-12 23:23:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:23:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:23:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Feb-12 23:24:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 23:24:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:25:31 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:25:31 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:27:25 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 23:27:25 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:28:01 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:28:01 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:28:32 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-12 23:28:32 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-12 23:28:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  hello
+2018-Feb-12 23:39:57 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-12 23:39:57 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-12 23:39:57 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: :server-close
+2018-Feb-13 23:02:19 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:02:19 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:02:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:02:30 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:03:10 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:03:10 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:03:24 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  default
+2018-Feb-13 23:12:37 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:12:37 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:12:37 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: default
+2018-Feb-13 23:14:53 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:14:54 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:15:18 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  default
+2018-Feb-13 23:20:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:20:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:20:49 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: default
+2018-Feb-13 23:23:06 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:23:06 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:23:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  [object Object]
+2018-Feb-13 23:24:10 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:24:10 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:24:43 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:24:43 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:24:55 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  [object Object]
+2018-Feb-13 23:26:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:26:21 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:26:55 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:26:55 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:27:11 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  [object Object]
+2018-Feb-13 23:27:11 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:28:29 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:28:29 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:30:47 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:30:48 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:31:13 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  [object Object]
+2018-Feb-13 23:31:13 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:31:52 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:31:52 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:33:09 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:33:10 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:33:51 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  [object Object]
+2018-Feb-13 23:33:51 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:35:22 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  [object Object]
+2018-Feb-13 23:35:22 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:35:25 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:35:25 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:36:36 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:36:36 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:37:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-13 23:37:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:38:39 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:38:39 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:39:04 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:39:04 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:39:16 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-13 23:39:16 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:40:50 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:40:50 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:41:23 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:41:23 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:41:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-13 23:41:38 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:42:57 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:42:57 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:43:29 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:43:29 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:43:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-13 23:43:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:44:55 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:44:55 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:45:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:45:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:45:46 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-13 23:45:46 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:47:14 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:47:14 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:47:50 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:47:50 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:48:00 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-13 23:48:00 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:49:07 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:49:07 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:50:18 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:50:19 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:51:25 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-13 23:51:25 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - I ran!
+2018-Feb-13 23:52:39 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:52:39 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:53:28 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:53:28 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:53:37 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-13 23:57:43 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-13 23:57:43 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-13 23:58:18 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-13 23:58:18 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-13 23:58:28 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-14 00:00:03 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-14 00:00:03 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-14 00:01:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-14 00:01:12 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-14 00:13:53 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-14 00:17:36 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-14 00:17:36 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-14 00:18:04 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-14 00:18:04 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-14 00:18:27 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-14 00:21:50 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-14 00:22:04 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-14 00:22:04 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-14 00:22:34 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-14 00:22:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-14 00:22:44 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-14 00:24:44 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-14 00:24:44 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-14 00:24:44 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: test
+2018-Feb-14 00:25:16 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - 
+-=[ multi-client-ws started successfully using the development profile ]=-
+2018-Feb-14 00:25:16 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.core] - server started on port: 3000
+2018-Feb-14 00:25:31 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel open, chatroom:  test
+2018-Feb-14 00:25:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - notify, chatroom:  test
+2018-Feb-14 00:25:35 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - notify, chatroom:  nil
+2018-Feb-14 02:24:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - multi-client-ws is shutting down...
+2018-Feb-14 02:24:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.handler] - shutdown complete!
+2018-Feb-14 02:24:05 +0000 LAPTOP-5GT1C2PT INFO [multi-client-ws.routes.websockets] - channel closed: test
